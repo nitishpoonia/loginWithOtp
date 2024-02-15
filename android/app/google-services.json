@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553564193302",
+    "project_id": "otp-login-1fca3",
+    "storage_bucket": "otp-login-1fca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553564193302:android:0f40ffa4eacd454b13ab37",
+        "android_client_info": {
+          "package_name": "com.calendarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZFVYQ8c4UvQY8zIUAsMAMUhoKh54Y6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
